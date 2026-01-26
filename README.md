@@ -19,6 +19,8 @@ This project is intentionally designed to mirror applied data science work in **
 * Keyword extraction for transparency
 * Named entity recognition (people, organizations, locations, dates)
 * Analyst-facing summary generation
+* Lightweight sentiment signal + alert tiering
+* Export analyst-ready views to CSV/HTML
 
 ---
 
@@ -107,8 +109,6 @@ The goal is to show how NLP can be operationalized to support real decision-maki
 
 * Swap in alternative datasets (AG News, Enron emails)
 * Add topic modeling for exploratory analysis
-* Export analyst reports to CSV or HTML
-* Introduce lightweight NLP enrichment (e.g., sentiment or alert thresholds)
 
 ---
 

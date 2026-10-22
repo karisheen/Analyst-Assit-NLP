@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "project": "Fundamental Forecast Lab",
+  "protocol_path": "protocols/0ab10bdd199817f9706205f697fc6032e5f5f589ffe17e49cec63160b1b2d328.json",
+  "fixture_manifest": "fixtures/manifest.json",
+  "annotation_guide": "annotation-guide.md",
+  "reproduction": "python -m forecast_lab reproduce --output research/results/sec-single-reviewer",
+  "source_rights_review": "source-rights.md",
+  "source_rights_status": "SEC_PUBLIC_FILING_REUSE_POLICY_QUALIFIED",
+  "publication_status": "CLEAN_PUBLICATION_HISTORY",
+  "publication_base": "f4219257ee032f4e260aa93c347ea7c4e901f597",
+  "private_history_publication": "PROHIBITED_RETIRED_SOURCE_MATERIAL",
+  "human_review_status": "PENDING",
+  "annotation_policy": "single_human_review",
+  "reviewer": "Dakari",
+  "annotation_limitation": "No independent inter-annotator agreement measurement.",
+  "historical_version_certification": "NOT_ESTABLISHED",
+  "prospective_status": "NO_ELIGIBLE_VERIFIED_ISSUANCE_BUNDLE",
+  "code_history": "Legacy 20 Newsgroups prototype remains in Git history; no financial evidence derived from it."
+}

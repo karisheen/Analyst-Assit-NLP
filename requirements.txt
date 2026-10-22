@@ -1,5 +1,1 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-spacy
+-e .[dev]

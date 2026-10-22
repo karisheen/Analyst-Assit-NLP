@@ -1,0 +1,266 @@
+{
+  "version": 2,
+  "purpose": "retrospective_pipeline_development_only",
+  "source_selection": "Three existing frozen-cohort software issuers, two consecutive 2024 reporting quarters each, using SEC-hosted original 8-K earnings exhibits. Selected for documented reuse basis and pipeline coverage, not outcomes or extraction scores.",
+  "rights_review": "../source-rights.md",
+  "documents": [
+    {
+      "path": "intu-2024q3.html",
+      "cik": "0000896878",
+      "ticker": "INTU",
+      "source_id": "0000896878-24-000024/EX-99.01",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687824000024/fy24q3earningspressrelease.htm",
+      "form": "8-K",
+      "exhibit_type": "EX-99.01",
+      "accession_number": "0000896878-24-000024",
+      "period_end": "2024-04-30",
+      "fiscal_year": 2024,
+      "fiscal_quarter": 3,
+      "retrieved_at": "2026-10-05T22:01:16.024647+00:00",
+      "published_at": "2024-05-23T20:00:00+00:00",
+      "published_date": "2024-05-23",
+      "accepted_at": "2024-05-23T20:01:45+00:00",
+      "acceptance_evidence": {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687824000024/0000896878-24-000024-index-headers.html",
+        "retrieved_at": "2026-10-05T22:02:10.976975+00:00",
+        "raw_hash": "c82d443d41ccdd8fc4f1148c568475444818bcbacf15d60113ae7e2b379bd1cc",
+        "acceptance_datetime_local": "20240523160145",
+        "timezone": "America/New_York",
+        "path": "metadata/intu-2024q3-headers.html"
+      },
+      "availability_evidence": "Publisher release page displays May 23, 2024 4:00pm EDT; see release_time_evidence. SEC acceptance is separately recorded. Current retrieval does not certify release-time byte vintage.",
+      "version_available_at": null,
+      "snapshot_status": "historical_reconstruction",
+      "amended": false,
+      "media_type": "text/html",
+      "article_bounds": [
+        "<body>",
+        "</body>"
+      ],
+      "expected_text": [
+        "Intuit",
+        "2024",
+        "revenue"
+      ],
+      "raw_hash": "d24d8df1a3d17873a45476e1f713860c76d5c232f3b560326f8a6217eb2e3564",
+      "rights": "SEC EDGAR public filing reuse policy; see ../source-rights.md. Issuer content is not represented as government-authored or universally public domain. External image assets not included.",
+      "rights_policy_url": "https://www.sec.gov/about/webmaster-frequently-asked-questions",
+      "release_time_evidence": {
+        "source_url": "https://investors.intuit.com/news-events/press-releases/detail/1188/intuit-reports-strong-third-quarter-results-and-raises-full-year-guidance",
+        "observed_at": "2026-10-05T22:03:54.794214+00:00",
+        "displayed_timestamp": "May 23, 2024 4:00pm EDT",
+        "scope": "Timestamp fact only; issuer webpage is not redistributed or ingested. Does not certify SEC exhibit bytes at original release."
+      }
+    },
+    {
+      "path": "intu-2024q4.html",
+      "cik": "0000896878",
+      "ticker": "INTU",
+      "source_id": "0000896878-24-000035/EX-99.01",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687824000035/fy24q4earningspressrelease.htm",
+      "form": "8-K",
+      "exhibit_type": "EX-99.01",
+      "accession_number": "0000896878-24-000035",
+      "period_end": "2024-07-31",
+      "fiscal_year": 2024,
+      "fiscal_quarter": 4,
+      "retrieved_at": "2026-10-05T22:01:16.275036+00:00",
+      "published_at": null,
+      "published_date": "2024-08-22",
+      "accepted_at": "2024-08-22T20:01:49+00:00",
+      "acceptance_evidence": {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687824000035/0000896878-24-000035-index-headers.html",
+        "retrieved_at": "2026-10-05T22:02:11.082314+00:00",
+        "raw_hash": "6ee2872a0f2b0acc8886d835a8f4be56a22b4cdd2effc5a72f00a97bbe08e6cd",
+        "acceptance_datetime_local": "20240822160149",
+        "timezone": "America/New_York",
+        "path": "metadata/intu-2024q4-headers.html"
+      },
+      "availability_evidence": "Release dateline supplies date only. SEC acceptance is separate administrative metadata, not exact first public availability. Current retrieval does not certify historical byte vintage.",
+      "version_available_at": null,
+      "snapshot_status": "historical_reconstruction",
+      "amended": false,
+      "media_type": "text/html",
+      "article_bounds": [
+        "<body>",
+        "</body>"
+      ],
+      "expected_text": [
+        "Intuit",
+        "2024",
+        "revenue"
+      ],
+      "raw_hash": "3881e36f0f5c4ec02e74f945d90c484d7624239f1aeec98b34853d48c6003577",
+      "rights": "SEC EDGAR public filing reuse policy; see ../source-rights.md. Issuer content is not represented as government-authored or universally public domain. External image assets not included.",
+      "rights_policy_url": "https://www.sec.gov/about/webmaster-frequently-asked-questions"
+    },
+    {
+      "path": "manh-2024q1.html",
+      "cik": "0001056696",
+      "ticker": "MANH",
+      "source_id": "0000950170-24-046886/EX-99.1",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1056696/000095017024046886/manh-ex99_1.htm",
+      "form": "8-K",
+      "exhibit_type": "EX-99.1",
+      "accession_number": "0000950170-24-046886",
+      "period_end": "2024-03-31",
+      "fiscal_year": 2024,
+      "fiscal_quarter": 1,
+      "retrieved_at": "2026-10-05T22:01:16.601905+00:00",
+      "published_at": null,
+      "published_date": "2024-04-23",
+      "accepted_at": "2024-04-23T20:05:38+00:00",
+      "acceptance_evidence": {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1056696/000095017024046886/0000950170-24-046886-index-headers.html",
+        "retrieved_at": "2026-10-05T22:02:11.217023+00:00",
+        "raw_hash": "bd1d480a81e27bdefe2f2c722bdd16bfa6af7cfeaf4bbe5cc84d233d4e42bc1b",
+        "acceptance_datetime_local": "20240423160538",
+        "timezone": "America/New_York",
+        "path": "metadata/manh-2024q1-headers.html"
+      },
+      "availability_evidence": "Release dateline supplies date only. SEC acceptance is separate administrative metadata, not exact first public availability. Current retrieval does not certify historical byte vintage.",
+      "version_available_at": null,
+      "snapshot_status": "historical_reconstruction",
+      "amended": false,
+      "media_type": "text/html",
+      "article_bounds": [
+        "<body style=\"margin: auto!important;padding: 8px;\">",
+        "</body>"
+      ],
+      "expected_text": [
+        "Manhattan Associates",
+        "2024",
+        "revenue"
+      ],
+      "raw_hash": "074243e5f83fbeb7ff849d3f7258335e6234b745e26080dfdae7af6df1efff60",
+      "rights": "SEC EDGAR public filing reuse policy; see ../source-rights.md. Issuer content is not represented as government-authored or universally public domain. External image assets not included.",
+      "rights_policy_url": "https://www.sec.gov/about/webmaster-frequently-asked-questions"
+    },
+    {
+      "path": "manh-2024q2.html",
+      "cik": "0001056696",
+      "ticker": "MANH",
+      "source_id": "0000950170-24-085622/EX-99.1",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1056696/000095017024085622/manh-ex99_1.htm",
+      "form": "8-K",
+      "exhibit_type": "EX-99.1",
+      "accession_number": "0000950170-24-085622",
+      "period_end": "2024-06-30",
+      "fiscal_year": 2024,
+      "fiscal_quarter": 2,
+      "retrieved_at": "2026-10-05T22:01:16.803487+00:00",
+      "published_at": null,
+      "published_date": "2024-07-23",
+      "accepted_at": "2024-07-23T20:04:13+00:00",
+      "acceptance_evidence": {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1056696/000095017024085622/0000950170-24-085622-index-headers.html",
+        "retrieved_at": "2026-10-05T22:02:11.293191+00:00",
+        "raw_hash": "e2d8180b2d6b2a8fdedb25c1ac9dd521e141681a576de4126573f49145cb7cc2",
+        "acceptance_datetime_local": "20240723160413",
+        "timezone": "America/New_York",
+        "path": "metadata/manh-2024q2-headers.html"
+      },
+      "availability_evidence": "Release dateline supplies date only. SEC acceptance is separate administrative metadata, not exact first public availability. Current retrieval does not certify historical byte vintage.",
+      "version_available_at": null,
+      "snapshot_status": "historical_reconstruction",
+      "amended": false,
+      "media_type": "text/html",
+      "article_bounds": [
+        "<body style=\"margin: auto!important;padding: 8px;\">",
+        "</body>"
+      ],
+      "expected_text": [
+        "Manhattan Associates",
+        "2024",
+        "revenue"
+      ],
+      "raw_hash": "b1ce640a04c10e55be024bcdbb84f62cb0a0307ce06d6ad7199cc5de5fd973f7",
+      "rights": "SEC EDGAR public filing reuse policy; see ../source-rights.md. Issuer content is not represented as government-authored or universally public domain. External image assets not included.",
+      "rights_policy_url": "https://www.sec.gov/about/webmaster-frequently-asked-questions"
+    },
+    {
+      "path": "payc-2024q1.html",
+      "cik": "0001590955",
+      "ticker": "PAYC",
+      "source_id": "0000950170-24-051272/EX-99.1",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1590955/000095017024051272/payc-ex99_1.htm",
+      "form": "8-K",
+      "exhibit_type": "EX-99.1",
+      "accession_number": "0000950170-24-051272",
+      "period_end": "2024-03-31",
+      "fiscal_year": 2024,
+      "fiscal_quarter": 1,
+      "retrieved_at": "2026-10-05T22:01:16.948978+00:00",
+      "published_at": null,
+      "published_date": "2024-05-01",
+      "accepted_at": "2024-05-01T20:10:14+00:00",
+      "acceptance_evidence": {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1590955/000095017024051272/0000950170-24-051272-index-headers.html",
+        "retrieved_at": "2026-10-05T22:02:11.379136+00:00",
+        "raw_hash": "3744a8fb06bd7f3db8f36ecf7bf721c0d701360830f1dd31aa5216cbdfdf74a4",
+        "acceptance_datetime_local": "20240501161014",
+        "timezone": "America/New_York",
+        "path": "metadata/payc-2024q1-headers.html"
+      },
+      "availability_evidence": "Release dateline supplies date only. SEC acceptance is separate administrative metadata, not exact first public availability. Current retrieval does not certify historical byte vintage.",
+      "version_available_at": null,
+      "snapshot_status": "historical_reconstruction",
+      "amended": false,
+      "media_type": "text/html",
+      "article_bounds": [
+        "<body style=\"margin: auto!important;padding: 8px;\">",
+        "</body>"
+      ],
+      "expected_text": [
+        "Paycom Software",
+        "2024",
+        "revenue"
+      ],
+      "raw_hash": "6d563f4186164855dada850c3ffacc4f654c7ccfa2a1339ee1addb1435b125aa",
+      "rights": "SEC EDGAR public filing reuse policy; see ../source-rights.md. Issuer content is not represented as government-authored or universally public domain. External image assets not included.",
+      "rights_policy_url": "https://www.sec.gov/about/webmaster-frequently-asked-questions"
+    },
+    {
+      "path": "payc-2024q2.html",
+      "cik": "0001590955",
+      "ticker": "PAYC",
+      "source_id": "0000950170-24-088567/EX-99.1",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1590955/000095017024088567/payc-ex99_1.htm",
+      "form": "8-K",
+      "exhibit_type": "EX-99.1",
+      "accession_number": "0000950170-24-088567",
+      "period_end": "2024-06-30",
+      "fiscal_year": 2024,
+      "fiscal_quarter": 2,
+      "retrieved_at": "2026-10-05T22:01:17.123791+00:00",
+      "published_at": null,
+      "published_date": "2024-07-31",
+      "accepted_at": "2024-07-31T20:10:10+00:00",
+      "acceptance_evidence": {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1590955/000095017024088567/0000950170-24-088567-index-headers.html",
+        "retrieved_at": "2026-10-05T22:02:11.471570+00:00",
+        "raw_hash": "2fb3eba149236f2c89714675fc058c7a3901f4a289aa25aae8af20ef617467d9",
+        "acceptance_datetime_local": "20240731161010",
+        "timezone": "America/New_York",
+        "path": "metadata/payc-2024q2-headers.html"
+      },
+      "availability_evidence": "Release dateline supplies date only. SEC acceptance is separate administrative metadata, not exact first public availability. Current retrieval does not certify historical byte vintage.",
+      "version_available_at": null,
+      "snapshot_status": "historical_reconstruction",
+      "amended": false,
+      "media_type": "text/html",
+      "article_bounds": [
+        "<body style=\"margin: auto!important;padding: 8px;\">",
+        "</body>"
+      ],
+      "expected_text": [
+        "Paycom Software",
+        "2024",
+        "revenue"
+      ],
+      "raw_hash": "46aef584d8d323a835223dd86c14eb93d1e2c3d0fd0adf41d9a0331115b061e0",
+      "rights": "SEC EDGAR public filing reuse policy; see ../source-rights.md. Issuer content is not represented as government-authored or universally public domain. External image assets not included.",
+      "rights_policy_url": "https://www.sec.gov/about/webmaster-frequently-asked-questions"
+    }
+  ]
+}

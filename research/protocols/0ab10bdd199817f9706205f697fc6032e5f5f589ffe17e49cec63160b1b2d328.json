@@ -1,0 +1,331 @@
+{
+  "change_reason": "Dakari is the sole human annotator; remove mandatory independent second review before any human labels or held-out extraction evaluation. Label definitions, candidate selection, splits, forecasting design and evidence gates are unchanged. Independent inter-annotator agreement is not measured.",
+  "cohort": [
+    {
+      "cik": "0000796343",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634319000126/filename1.htm",
+      "name": "Adobe Inc.",
+      "ticker": "ADBE"
+    },
+    {
+      "cik": "0001108524",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852417000030/0001108524-17-000030.txt",
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM"
+    },
+    {
+      "cik": "0001373715",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1373715/0001373715-17-000094.txt",
+      "name": "ServiceNow, Inc.",
+      "ticker": "NOW"
+    },
+    {
+      "cik": "0001327811",
+      "identity_source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=workday&type=10-K",
+      "name": "Workday, Inc.",
+      "ticker": "WDAY"
+    },
+    {
+      "cik": "0000896878",
+      "identity_source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Intuit%20Inc.&type=10-K",
+      "name": "Intuit Inc.",
+      "ticker": "INTU"
+    },
+    {
+      "cik": "0000769397",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/769397/000076939724000152/0000769397-24-000152-index-headers.html",
+      "name": "Autodesk, Inc.",
+      "ticker": "ADSK"
+    },
+    {
+      "cik": "0000857005",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/857005/000085700520000003/0000857005-20-000003.txt",
+      "name": "PTC Inc.",
+      "ticker": "PTC"
+    },
+    {
+      "cik": "0001056696",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1056696/000095014405002666/g93777e10vk.htm",
+      "name": "Manhattan Associates, Inc.",
+      "ticker": "MANH"
+    },
+    {
+      "cik": "0001590955",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1590955/000156459020004636/payc-10k_20191231.htm",
+      "name": "Paycom Software, Inc.",
+      "ticker": "PAYC"
+    },
+    {
+      "cik": "0001591698",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1591698/000110465920043433/tm2013629-2_8k.htm",
+      "name": "Paylocity Holding Corporation",
+      "ticker": "PCTY"
+    },
+    {
+      "cik": "0001393052",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1393052/000119312514103258/d646612d10k.htm",
+      "name": "Veeva Systems Inc.",
+      "ticker": "VEEV"
+    },
+    {
+      "cik": "0001404655",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1404655/000095012314004854/filename7.htm",
+      "name": "HubSpot, Inc.",
+      "ticker": "HUBS"
+    },
+    {
+      "cik": "0001463172",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1463172/000119312522180830/d371527d8k.htm",
+      "name": "Zendesk, Inc.",
+      "ticker": "ZEN"
+    },
+    {
+      "cik": "0001423774",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1423774/000142377424000150/a2024annualreport-zuorainca.pdf",
+      "name": "Zuora, Inc.",
+      "ticker": "ZUO"
+    },
+    {
+      "cik": "0001385867",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1385867/000119312519107304/d735157d8k.htm",
+      "name": "Coupa Software Incorporated",
+      "ticker": "COUP"
+    },
+    {
+      "cik": "0001433195",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1433195/000143319520000019/appf12311910-k.htm",
+      "name": "AppFolio, Inc.",
+      "ticker": "APPF"
+    },
+    {
+      "cik": "0001288847",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1288847/000128884719000065/a03311910q.htm",
+      "name": "Five9, Inc.",
+      "ticker": "FIVN"
+    },
+    {
+      "cik": "0001666134",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1666134/000156459020007371/bl-10k_20191231.htm",
+      "name": "BlackLine, Inc.",
+      "ticker": "BL"
+    },
+    {
+      "cik": "0001280058",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1280058/000095014407001722/g05572e10vk.htm",
+      "name": "Blackbaud, Inc.",
+      "ticker": "BLKB"
+    },
+    {
+      "cik": "0001013857",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1013857/000119312519218005/d773433d8k.htm",
+      "name": "Pegasystems Inc.",
+      "ticker": "PEGA"
+    },
+    {
+      "cik": "0001384905",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1384905/0001384905-21-000003-index.htm",
+      "name": "RingCentral, Inc.",
+      "ticker": "RNG"
+    },
+    {
+      "cik": "0001410384",
+      "identity_source_url": "https://www.sec.gov/edgar/browse?CIK=1410384",
+      "name": "Q2 Holdings, Inc.",
+      "ticker": "QTWO"
+    },
+    {
+      "cik": "0001372612",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1372612/000119312515181906/0001193125-15-181906.txt",
+      "name": "Box, Inc.",
+      "ticker": "BOX"
+    },
+    {
+      "cik": "0001467623",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1467623/000114036123016303/0001140361-23-016303.txt",
+      "name": "Dropbox, Inc.",
+      "ticker": "DBX"
+    },
+    {
+      "cik": "0001366561",
+      "identity_source_url": "https://www.sec.gov/Archives/edgar/data/1366561/000136656119000014/fy2019smar10-k.htm",
+      "name": "Smartsheet Inc.",
+      "ticker": "SMAR"
+    }
+  ],
+  "cohort_policy": "Fixed purposive 2019-public cohort, not exhaustive sector universe; acquired issuers retained; no survival requirement. Business/fiscal eligibility needs source audit.",
+  "corporate_actions": {
+    "acquisitions": "retain_reported_consolidation",
+    "currency": "reported_no_FX_conversion_exclude_changes",
+    "delisting": "retain_history_unresolved_when_no_original_outcome",
+    "divestitures": "retain_original_no_recast",
+    "restatements": "append_never_replace_original",
+    "successor": "never_stitch_CIKs"
+  },
+  "exclusions": [
+    "unknown_exact_availability",
+    "uncertified_historical_version",
+    "missing_original_revenue",
+    "currency_or_regime_change",
+    "irregular_or_missing_quarter",
+    "conflicting_original_sources",
+    "unresolved_at_fit",
+    "outside_split_or_embargo",
+    "duplicate_company_quarter",
+    "late_resolution"
+  ],
+  "extraction": {
+    "candidate_minimum": 150,
+    "candidate_target": 240,
+    "deduplicate": "normalized_exact_text",
+    "gold": "single_human_review",
+    "labels": [
+      "RAISED",
+      "LOWERED",
+      "MAINTAINED",
+      "INITIATED",
+      "NO_GUIDANCE",
+      "AMBIGUOUS"
+    ],
+    "llm": "external_structured_responses_with_request_model_cost_identity_no_self_grading",
+    "reviewer": "Dakari",
+    "rules": "explicit_revenue_direction_and_horizon_otherwise_abstain",
+    "second_review_fraction": 0.0,
+    "split": "source_company_quarter_chronological_60_20_20",
+    "task": "revenue_guidance_revision",
+    "tfidf": {
+      "C": 1.0,
+      "max_iter": 2000,
+      "min_df": 1,
+      "ngram_range": [
+        1,
+        2
+      ]
+    },
+    "version": "guidance-v2-single-reviewer"
+  },
+  "fiscal": {
+    "alignment": "explicit_issuer_fiscal_year_quarter_start_end_and_regime",
+    "calendar_change": "exclude_until_required_chain_same_regime",
+    "missing": "no_imputation",
+    "q4": "explicit_quarter_or_original_FY_minus_original_9M",
+    "quarter_days": [
+      77,
+      105
+    ],
+    "weeks": "52_53_allowed_no_normalization",
+    "year_days": [
+      350,
+      378
+    ]
+  },
+  "frozen_at": "2026-10-22T20:28:21.772584+00:00",
+  "inconclusive": "Any minimum failure; otherwise support only if D-B Brier <= -0.005 and 95% interval wholly below zero; no alpha claim.",
+  "metrics": {
+    "bins": [
+      0,
+      0.2,
+      0.4,
+      0.6,
+      0.8,
+      1.0
+    ],
+    "bootstrap": "crossed_company_calendar_quarter_pigeonhole",
+    "bootstrap_replicates": 2000,
+    "bootstrap_seed": 20260929,
+    "clip": 1e-06,
+    "confidence": 0.95,
+    "minimum_bin_count": 20,
+    "minimum_practical_improvement": 0.005,
+    "primary": "brier_D_minus_B",
+    "secondary": [
+      "log_loss",
+      "B_minus_A",
+      "C_minus_A"
+    ]
+  },
+  "minimums": {
+    "evaluation_companies": 18,
+    "evaluation_each_class": 30,
+    "evaluation_quarters": 7,
+    "evaluation_rows": 140,
+    "resolution_coverage": 0.8,
+    "train_companies": 20,
+    "train_each_class": 40,
+    "train_quarters": 10,
+    "train_rows": 200
+  },
+  "models": {
+    "A": "laplace_sector_rate",
+    "B": "numeric_L2_logistic",
+    "C": "text_L2_logistic",
+    "C_regularization": 1.0,
+    "D": "combined_L2_logistic",
+    "calibration": "none",
+    "extractor": "rules-v1",
+    "max_iter": 2000,
+    "numeric_features": [
+      "growth_q",
+      "growth_previous"
+    ],
+    "revision_scoring": "first_root_only",
+    "scaler": "train_only_standard_scaler",
+    "solver": "lbfgs",
+    "text_features": [
+      "raised",
+      "lowered",
+      "maintained",
+      "initiated",
+      "ambiguous"
+    ]
+  },
+  "resolution": {
+    "authority": "first_original_period_GAAP_revenue_8K_exhibit_or_verified_earlier_IR_else_first_10Q_10K",
+    "conflict": "unresolved_manual_adjudication",
+    "deadline_days": 270,
+    "late": "append_exclude_from_primary",
+    "original_vintages_only": true
+  },
+  "sector": "enterprise_business_application_software",
+  "splits": {
+    "assignment": "information_cutoff",
+    "calibration": [
+      "2023-04-01T00:00:00Z",
+      "2024-01-01T00:00:00Z"
+    ],
+    "final_holdout_not_before": "2027-10-01T00:00:00Z",
+    "fit_at": "2023-01-01T00:00:00Z",
+    "holdout": [
+      "2025-04-01T00:00:00Z",
+      "2027-01-01T00:00:00Z"
+    ],
+    "refit": false,
+    "train": [
+      "2020-01-01T00:00:00Z",
+      "2023-01-01T00:00:00Z"
+    ],
+    "training_gap_days": 120,
+    "validation": [
+      "2024-04-01T00:00:00Z",
+      "2025-01-01T00:00:00Z"
+    ]
+  },
+  "supersedes": "c00be1d921c79ec472bc6dc449692929936f58e6ab43b1190ce39521fd7bf5ba",
+  "target": {
+    "arithmetic": "exact_decimal_cross_products",
+    "basis": "original_consolidated_gaap_revenue",
+    "growth": "R[q]/R[q-4]-1",
+    "horizon": "next_regular_fiscal_quarter",
+    "slowdown": "g[q+1]<g[q]",
+    "ties": 0,
+    "unit": "decimal_fraction"
+  },
+  "timing": {
+    "anchor": "earliest_verified_public_complete_quarter_GAAP_release",
+    "creation_tolerance_seconds": 3600,
+    "cutoff_seconds": 86400,
+    "date_only": "ineligible",
+    "sec_timezone": "America/New_York",
+    "unknown_version_availability": "ineligible"
+  },
+  "version": "ffl-1.1.0"
+}

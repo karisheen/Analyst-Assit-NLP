@@ -1,0 +1,62 @@
+{
+  "record_kind": "selected_exact_text_excerpts_not_full_page_snapshots",
+  "reviewed_on": "2026-10-05",
+  "retrieval_method": "curl -L --fail with User-Agent: FundamentalForecastLab dakariantoine@gmail.com; native reader returned HTTP 403",
+  "scope_note": "Text transcribed from retrieved primary SEC HTML, with HTML entities decoded. Review date is not the historical effective date of a permission or an independently certified timestamp.",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/about/webmaster-frequently-asked-questions",
+      "displayed_last_reviewed_or_updated": "Aug. 23, 2024",
+      "excerpts": [
+        {
+          "anchor": "reuse",
+          "quote": "All Government-created content on sec.gov and EDGAR public filing content are free to access and reuse. See Website Dissemination for our permissions policy."
+        },
+        {
+          "anchor": "reuse2",
+          "question": "Is any of the content not free to reuse?",
+          "quote": "Very little. Examples include stock art photos used to illustrate various sec.gov pages."
+        },
+        {
+          "anchor": "code-support",
+          "quote": "Note that our current maximum access rate is 10 requests per second. This is carefully monitored to preserve equitable access for all users. See: Internet Security Policy."
+        },
+        {
+          "anchor": "lag",
+          "quote": "Filings are often available on sec.gov within 1-3 minutes of the EDGAR system timestamp. The lag time can increase significantly with high server load. We don’t guarantee and cannot predict this lag."
+        },
+        {
+          "anchor": "timestamps",
+          "quote": "There is no timestamp to indicate when filing content is first available on sec.gov."
+        }
+      ]
+    },
+    {
+      "requested_url": "https://www.sec.gov/privacy.htm",
+      "canonical_url": "https://www.sec.gov/about/privacy-information",
+      "displayed_last_reviewed_or_updated": "Nov. 29, 2023",
+      "excerpts": [
+        {
+          "anchor": "dissemination",
+          "quote": "Information presented on sec.gov is considered public information and may be copied or further distributed by users of the web site without the SEC’s permission. Please consider appropriate citation to the SEC as the source."
+        },
+        {
+          "anchor": "dissemination",
+          "quote": "Please do not use the SEC seal or any of the other logos or artwork from this site."
+        },
+        {
+          "anchor": "dissemination",
+          "quote": "In addition, please be advised that “SEC,” the EDGAR logo, and the names EDGAR, EDGARLink, and EDGARLink Online are the SEC's registered trademarks. You may not use them in a trade name, trademark, or domain name of an SEC- or EDGAR-related business without a license from the SEC. You may refer in text to the existence of EDGAR and the EDGAR system without a license, so long as you are not creating the impression that your business is affiliated with or approved by the SEC."
+        },
+        {
+          "anchor": "security",
+          "quote": "Current guidelines limit users to a total of no more than 10 requests per second, regardless of the number of machines used to submit requests."
+        },
+        {
+          "anchor": "links",
+          "quote": "Once you link to another site, you are subject to the policies of that site."
+        }
+      ]
+    }
+  ]
+}
